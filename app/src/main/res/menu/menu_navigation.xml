@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/inicioItem"
+        android:icon="@drawable/ic_action_home"
+        android:title="@string/inicio" />
+
+    <item
+        android:id="@+id/listaItem"
+        android:icon="@drawable/ic_action_list"
+        android:title="@string/lista" />
+
+    <item
+        android:id="@+id/buscarItem"
+        android:icon="@drawable/ic_action_search"
+        android:title="@string/buscar" />
+
+    <item
+        android:id="@+id/arquivosItem"
+        android:icon="@drawable/ic_action_files"
+        android:title="@string/arquivos"
+        />
+
+    <item
+        android:id="@+id/perfilItem"
+        android:icon="@drawable/ic_action_perfil"
+        android:title="@string/perfil" />
+</menu>
