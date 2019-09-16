@@ -12,11 +12,6 @@
         android:title="@string/lista" />
 
     <item
-        android:id="@+id/buscarItem"
-        android:icon="@drawable/ic_action_search"
-        android:title="@string/buscar" />
-
-    <item
         android:id="@+id/arquivosItem"
         android:icon="@drawable/ic_action_files"
         android:title="@string/arquivos"
